@@ -19,7 +19,7 @@ We used 2 methodologies:</p>
 <li>Calculated metrics</li>
 </ol>
 
-#### 2. Product Substitution
+#### 2. Product Substitution - using Natural Language Processing (NLP)
 
 <ol>
 <li>Text Tokenization: Break down product names into individual components (tokens) for analysis.</li>
