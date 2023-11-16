@@ -29,6 +29,15 @@ We used 2 methodologies:</p>
 <li>Substitute Identification: Filter products with high cosine similarity scores as potential substitutes</li>
 </ol>
 
+#### Skills:
+<ol>
+ <li>Python</li>
+ <li>EDA: Numpy, Pandas, Seaborn, Matplotlib</li>
+ <li>Machine Learning: Scikit-learn, NLP</li>
+ <li>Cloud: Google Colab</li>
+ <li>Version Control: Github</li>
+</ol>
+
 <p>Our team consist of 4. It was pleasure to work and collaborated with</p>
 <ul>
 <li> <a href="https://github.com/Julian-Oppedisano/MMA-Datathon/tree/main">Julian Oppedisano</a></li>
